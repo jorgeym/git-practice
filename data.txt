@@ -1,0 +1,3 @@
+Name: Jorgeym
+Age: 32
+Favorite color: black
